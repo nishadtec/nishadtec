@@ -25,6 +25,7 @@
 ###
 
 <div align="center">
+  <a href="https://nishadtec.github.io/portfolio/">
   <img src="https://komarev.com/ghpvc/?username=nishadtec&style=for-the-badge&color=00ff00" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Hacking%20Mode-00ff00?style=for-the-badge&logo=hackaday&logoColor=white" />
 </div>
